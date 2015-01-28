@@ -4,6 +4,7 @@ html, body {
     font-family: 'freight-sans-pro', 'Helvetica', 'Arial', sans-serif;
     padding: 0px;
     margin: 0px;
+    background-image: url("gray-gradient.jpg");
 }
 
 div.outside {
@@ -22,9 +23,9 @@ div.content {
 
 img.main-img {
     border-radius: 50%;
-    max-height: 350px;
+    max-height: 250px;
     width: 90%;
-    max-width: 350px;
+    max-width: 250px;
     border: 5px solid black;
 
     -webkit-transition: all 1s ease;
