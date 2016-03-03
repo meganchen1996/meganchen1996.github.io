@@ -63,7 +63,8 @@ img.main-img:hover {
 
 h1.name {
     letter-spacing: 1px;
-    font-size: 45px;
+    font-size: 100px;
+    font-family: 'Open Sans', serif;
 }
 
 
