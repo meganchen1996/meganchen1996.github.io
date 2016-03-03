@@ -65,6 +65,11 @@ h1.name {
     letter-spacing: 1px;
     font-size: 100px;
     font-family: 'Open Sans', serif;
+    font-style: italic;
+    font-weight: 400;
+    border-style: solid;
+    border-color:darkviolet;
+    border-width: 8px;
 }
 
 
@@ -107,7 +112,7 @@ a:hover {
 
 .me-text a {
     font-weight: 600;
-    color: dodgerblue;
+    color:cornflowerblue;
 }
 
 
