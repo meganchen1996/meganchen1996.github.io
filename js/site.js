@@ -1,12 +1,11 @@
 $(function() {
     loadAboutPage();
     
-    $('#name').click(function(){
-    $('html, body').animate({
-        scrollTop: $( $.attr(this, '#about') ).offset().top
-    }, 500);
-    return false;
-});
+    $("#name").click(function() {
+        $('html, body').animate({
+            scrollTop: $("#about").offset().top
+        }, 2000);
+    });
     
 });
 
