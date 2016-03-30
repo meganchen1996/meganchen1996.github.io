@@ -4,7 +4,6 @@ html, body {
     font-family: 'freight-sans-pro', 'Helvetica', 'Arial', sans-serif;
     padding: 0px;
     margin: 0px;
-    background-color:black;
 }
 
 h1, h2, h3, h4, h5, h6, p, a {
@@ -75,6 +74,7 @@ h1.name {
 }
 
 
+
 h2.subtitle {
     font-weight: normal;
 }
@@ -114,7 +114,7 @@ a:hover {
 
 .me-text a {
     font-weight: 600;
-    color:yellow;
+    color:#3a4ed5;
 }
 
 
